@@ -27,12 +27,17 @@
     2. Pull Request
     3. Branches
     4. Code review
-5. Conceitos avançados
+5. Arquivos
+    1. Pasta .git
+    2. gitignore
+    3. gitattributes
+    4. gitkeep
+6. Conceitos avançados
     1. Adicionado um repositório remoto a uma pasta já existente
     2. Revertendo um commit
     3. Revertendo um commit que já está no repositório remoto
     4. Resolvendo conflitos
-6. Conceitos avançados
+7. Conceitos avançados
     1. rebase
     2. rebase
     3. cherry-pick
