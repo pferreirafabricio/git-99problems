@@ -11,16 +11,17 @@
     3. Branch
     4. Tags
 3. Comandos elementares
-    1. init
-    2. status
-    3. add
-    4. restore
-    5. commit
-    6. push
-    7. pull
-    8. clone
-    9. log
-    10. reset
+    1. config
+    2. init
+    3. status
+    4. add
+    5. restore
+    6. commit
+    7. push
+    8. pull
+    9. clone
+    10. log
+    11. reset
 4. Colaboração
     1. Merge
     2. Pull Request
@@ -33,7 +34,8 @@
     4. Resolvendo conflitos
 6. Conceitos avançados
     1. rebase
-    2. cherry-pick
-    3. git flow
-    4. github flow
-    5. versionamento por tags
+    2. rebase
+    3. cherry-pick
+    4. git flow
+    5. github flow
+    6. versionamento por tags
