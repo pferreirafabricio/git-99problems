@@ -1,6 +1,6 @@
 # Git 99 Problems
 
-⚔️ A única maneira de aprender Git é atirando no seu próprio pé
+⚔️ A unica maneira de aprender git é
 
 ## Conteúdo
 
